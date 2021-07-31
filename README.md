@@ -26,7 +26,7 @@ cara installasi :
     - Pastikan komputer terkoneksi ke Internet
     - buat folder untuk database
     - create vagrant script : vagrant init
-    - copykan script yang ada di github pada file vagrantfile
+    - copykan script yang ada di github pada file vagrantfile termasuk file .sh
     - jalankan : vagrant up
     - cek status vm : vagrant status
     - akses ke server dengan ssh : vagrant ssh <nama vm>
