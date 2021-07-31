@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 
 echo 'Starting Database: mysql'$1
 sudo apt-get update

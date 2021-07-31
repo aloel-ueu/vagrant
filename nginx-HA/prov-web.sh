@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 
 echo 'Starting Provision: web'$1
 sudo apt-get update
