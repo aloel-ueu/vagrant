@@ -2,6 +2,6 @@
 
 echo 'Starting Database: mysql'$1
 sudo apt-get update
-sudo apt-get install -y nginx
-echo "Machine: mysql"$1 >> /usr/share/nginx/html/index.html
+sudo apt-get install mysql-server -y
+sudo systemctl start mysql
 echo 'Provision mysql'$1 'complete'
