@@ -4,7 +4,7 @@ echo 'Starting Provision: lb1'
 sudo apt-get update
 sudo apt-get install -y nginx
 sudo service nginx stop
-sudo rm -rf /etc/nginx/sites-enabled/default
+#sudo rm -rf /etc/nginx/sites-enabled/default
 sudo touch /etc/nginx/sites-enabled/default
 echo "upstream testapp {
         server 10.0.0.11;
