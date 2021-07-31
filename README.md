@@ -1,5 +1,5 @@
 # vagrant
-belajar
+BELAJAR VAGRANT
 
 Install MySQL Server di Linux Mint VM:
 1. sudo apt update
