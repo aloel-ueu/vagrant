@@ -13,7 +13,7 @@ Folder Database
 
 cara installasi :
     
-    Database
+    Web-HA (High Availability Load Balanced)
     - Pastikan komputer terkoneksi ke Internet
     - buat folder untuk web-ha
     - create vagrant script : vagrant init
