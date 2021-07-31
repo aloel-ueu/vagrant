@@ -12,7 +12,8 @@ Folder Database
     - berisi script sh
 
 cara installasi :
-    WEB-HA
+    
+    Database
     - Pastikan komputer terkoneksi ke Internet
     - buat folder untuk web-ha
     - create vagrant script : vagrant init
